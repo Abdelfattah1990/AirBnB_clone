@@ -47,4 +47,3 @@ class TestFileStorage(unittest.TestCase):
     def tearDownClass(cls):
         """ remove test instances """
         pass
-
